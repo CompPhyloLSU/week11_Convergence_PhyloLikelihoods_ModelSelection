@@ -25,4 +25,4 @@
 ## Assignments
 
 - For Thurs, March 28th, finish last week's exercise including models of rate variation
-- For next Tuesday, April 2nd,...
+- For next Tuesday, April 2nd, complete worksheets practicing Felsenstein's pruning algorithm.
